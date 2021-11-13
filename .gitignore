@@ -1,0 +1,14 @@
+/.settings/
+/.classpath
+/.project
+/logs/
+/target/
+*.iml
+/.tern-project
+/*/.settings/
+/*/.classpath
+/*/.project
+/*/logs/
+/*/target/
+/*/*.iml
+/.idea/
